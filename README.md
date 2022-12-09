@@ -19,7 +19,7 @@ containing Viral Pneumonia and Normal Chest X-Rays structured into the test and 
 
 ![alt text](https://github.com/ShoaibDataScientist/Covid-Detection-System-Image-detection/blob/main/dataDescription.PNG)
 
-#Proposed Approach:
+# Proposed Approach:
 This study is focused on presenting an approach based on deep learning
 approach for detecting COVID-19 infection with the aid of X-ray images of chest. For classifying three
 types of pneumonia, we proposed a deep neural network (CNN). Our research deals with the
@@ -30,6 +30,6 @@ images of chest. The proposed model may not become an alternate to the current e
 completely, but number of cases can still be brought down where an immediate based testing or further
 review from experts is required
 
-#Deployed on Android:
+# Deployed on Android:
 Video Link
 https://youtube.com/shorts/UJUzweAy8cg
